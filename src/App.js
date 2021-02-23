@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Users from './components/Users';
 import AddUser from './components/AddUser';
 // import Test from './components/Test';
-
 export default class App extends Component {
   render() {
     return (
